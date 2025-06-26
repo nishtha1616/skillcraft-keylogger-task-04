@@ -1,0 +1,5 @@
+[Key.caps_lock]
+hello[Key.enter]
+wr[Key.backspace]
+orld[Key.enter]
+123

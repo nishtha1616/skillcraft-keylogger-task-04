@@ -34,4 +34,4 @@ Create a keylogger that:
 ### 🔹 1. Clone the Repository
 
 git clone https://github.com/nishtha1616/skillcraft-keylogger-task-04.git
-cd keylogger-task04
+keylogger.py
